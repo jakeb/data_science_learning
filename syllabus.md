@@ -11,3 +11,6 @@ Target audience: Middle-aged once and future math whizzes with substantial progr
 ### Timeline
 
  Get some basics down and then dive into a project.
+
+
+### Project possibilities
